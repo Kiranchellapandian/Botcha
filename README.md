@@ -6,7 +6,6 @@ We wanted to bury it. ❞
 ---
 
 
-https://github.com/user-attachments/assets/a52d6dcc-d36d-405a-a07d-366bb525c4f4
 
 
 🎥 *Watch our Hackathon demo above. Real users. Real results.*
