@@ -3,6 +3,16 @@
 > ❝ We didn't want to build a better CAPTCHA.  
 We wanted to bury it. ❞
 
+---
+
+
+https://github.com/user-attachments/assets/a52d6dcc-d36d-405a-a07d-366bb525c4f4
+
+
+🎥 *Watch our Hackathon demo above. Real users. Real results.*
+
+---
+
 ## ⚡️ The Problem No One Fixed
 
 CAPTCHAs failed us.  
@@ -73,6 +83,15 @@ Imagine a web where:
 | Stage 2 (Server) | XGBoost + Random Forest     | Deep analysis of human behavior  |
 | Pit Trap     | Honeypot Field          | Trap scripts before they begin   |
 | Challenge    | GIF Morph Puzzle        | Final boss for bad actors        |
+
+---
+
+## ✅ Tested in the Real World
+
+This project was built and tested during a national hackathon.  
+We had users across all age groups successfully complete verification —  
+*including real-world tests with grandparents and volunteers* —  
+while bots were reliably blocked.
 
 ---
 
