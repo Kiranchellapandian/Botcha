@@ -110,7 +110,7 @@ while bots were reliably blocked.
 ## 👑 Built By Minds Obsessed With Impact
 
 - **Kiran C**  
-- **Chandrasekaran**  
+- **Chandrasekar S**  
 - **Deepak S**  
 - **Sanjay M**  
 - **Kishore N**  
